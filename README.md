@@ -1,16 +1,37 @@
-# course_shop_ui
 
-A new Flutter ui project.
+ <image src="https://github.com/Parsanikdev/Flutter_CourseStore_Ui/blob/main/CourseStore_Ui.jpg">
+
+## About
+Course Store UI
+A Flutter-powered mobile application designed to provide a visually appealing and user-friendly interface for exploring and managing courses.
+
+
+
+## Features
+-  Intuitive Navigation: Effortlessly browse through various course categories with a clean and organized layout.
+-  Detailed Course Information: Get comprehensive details about each course, including descriptions, instructors, and reviews.
+-  Personalized Recommendations: Discover new courses tailored to your interests and learning goals.
+-  Wishlist and Progress Tracking: Create a personalized wishlist and monitor your learning progress.
+-  Responsive Design: Enjoy a seamless experience across different screen sizes and devices.
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ * Clone the repository:
+   git clone https://github.com/Parsanikdev/Flutter_CourseStore_Ui.git
 
-A few resources to get you started if this is your first Flutter project:
+ * Install dependencies:
+   flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ * Run the app:
+   flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built With
+ * Flutter: For building beautiful and performant cross-platform apps.
+ * Dart: As the programming language for Flutter.
+   
+Contributing
+Contributions are welcome! Please read our contributing guidelines before submitting a pull request.
+License
+This project is licensed under the [MIT License] - see the LICENSE file for details.
