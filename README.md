@@ -31,7 +31,8 @@ Built With
  * Flutter: For building beautiful and performant cross-platform apps.
  * Dart: As the programming language for Flutter.
    
-Contributing
+## Contributing
 Contributions are welcome! Please read our contributing guidelines before submitting a pull request.
-License
+
+## License
 This project is licensed under the [MIT License] - see the LICENSE file for details.
